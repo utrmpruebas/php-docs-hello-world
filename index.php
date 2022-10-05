@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Azure, tarea de base de datos :0";
+echo "Hello Azure, tarea de base de datos :0, bienvenido";
 
 ?>
