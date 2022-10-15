@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'phputrm'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5DAC1C136905433C961457F72002DB05 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E38F05E69884A60B80DB2A89FBC29FF }}
           package: .
